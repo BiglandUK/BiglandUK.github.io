@@ -1,6 +1,10 @@
 body{
 	background-color:#449977;
 }
+#SettingsPanel{
+	float:right;
+	width:10%;
+}
 #main{
 	width:90%;
 	margin-left:auto;
